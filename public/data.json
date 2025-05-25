@@ -1,0 +1,30 @@
+[
+  {
+  "alarm_id": "2738472",
+  "alarm_name": "AIE: MBF_Abnormal connection warning...",
+  "prediction_label": 1,
+  "notes": "",
+  "detail": {
+    "Alarm Date": "05/22/2025 12:49:14 pm",
+    "Classification": "Other Audit",
+    "Log Source": "AI Engine (ID: 2)",
+    "Zone (Origin)": "Internal",
+    "Zone (Impacted)": "Internal",
+    "Host (Origin)": "10.6.61.45",
+    "Host (Impacted)": "10.3.250.176"
+  }},
+  {
+  "alarm_id": "2738473",
+  "alarm_name": "AIE: MBF_Abnormal connection warning...",
+  "prediction_label": 1,
+  "notes": "",
+  "detail": {
+    "Alarm Date": "05/22/2025 12:49:14 pm",
+    "Classification": "Other Audit",
+    "Log Source": "AI Engine (ID: 2)",
+    "Zone (Origin)": "Internal",
+    "Zone (Impacted)": "Internal",
+    "Host (Origin)": "abcd.com",
+    "Host (Impacted)": "cdef.com"
+  }}
+]
