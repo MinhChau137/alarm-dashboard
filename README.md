@@ -1,3 +1,10 @@
+# Mô tả chút
+- Giao diện cảnh báo thì gồm 2 phần: danh sách các cảnh báo, chi tiết cảnh báo
+- Data đang được fake ở file: alarm-dashboard\public\data.json
+- Khi muốn dùng api thì chỉnh ở 2 file alarm-dashboard\src\components\AlarmDetail.js, alarm-dashboard\src\components\AlarmTable.js (có note rồi đó)
+- Muốn chạy web thì mở terminal ở folder này và run: npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
