@@ -1,5 +1,5 @@
 .table-container {
-  max-width: 1000px;
+  max-width: 1500px;
   margin: 40px auto;
   padding: 24px;
   background: #ffffff;
@@ -44,6 +44,7 @@ tr:hover {
 
 input[type="text"] {
   width: 100%;
+  box-sizing: border-box;
   padding: 8px;
   border: 1px solid #ccc;
   border-radius: 6px;
@@ -60,17 +61,27 @@ a:hover {
   text-decoration: underline;
 }
 
-.search-box {
+.filter-box {
   display: flex;
-  justify-content: center; /* căn giữa ngang */
-  margin-bottom: 16px;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 20px;
 }
 
-.search-box input {
-  width: 70%;
-  padding: 10px;
-  font-size: 16px;
+.filter-box > div {
+  display: flex;
+  flex-direction: column;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  padding: 8px 12px;
   border: 1px solid #ccc;
-  border-radius: 8px;
+  text-align: left;
 }
-

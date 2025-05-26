@@ -3,6 +3,8 @@
   "alarm_id": "2738472",
   "alarm_name": "AIE: MBF_Abnormal connection warning...",
   "prediction_label": 1,
+  "timestamp": "2025-05-25T14:22:00",
+  "unit": "ĐMB",
   "notes": "",
   "detail": {
     "Alarm Date": "05/22/2025 12:49:14 pm",
@@ -17,6 +19,8 @@
   "alarm_id": "2738473",
   "alarm_name": "AIE: MBF_Abnormal connection warning...",
   "prediction_label": 1,
+  "timestamp": "2025-05-25T14:22:00",
+  "unit": "ĐMB",
   "notes": "",
   "detail": {
     "Alarm Date": "05/22/2025 12:49:14 pm",
